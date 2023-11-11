@@ -5,4 +5,4 @@
 
 - mobile UI imporvment
 - improve data avaliablity
-
+- improved map explorer for mobile version
