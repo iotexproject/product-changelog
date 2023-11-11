@@ -4,4 +4,5 @@
 ## 2023-11-10
 
 - mobile UI imporvment
+- improve data avaliablity
 
