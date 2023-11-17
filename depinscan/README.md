@@ -4,6 +4,7 @@
 - continue improve mobile UI imporvment [WIP]
 - add data growth charts [WIP]
 - verified projects data aggregate(total_market_cap, total_deivce)[WIP]
+- optimize home map performance [WIP]
 
 ## 2023-11-10
 - mobile UI imporvment
