@@ -1,7 +1,11 @@
 # IoTeXscan Changelog
 
-## 2021-11-18
+## 2021-11-24
 - feat: Support to press the enter key when searching directly to the target website page [WIP]
+- perf: Optimize hard fork history banner loading speed [WIP]
+- feat: Add market info api[DONE]
+
+## 2021-11-18
 - feat: Supports token and nft filtering based on address or token id [WIP]
 - feat: Add Inventory tab on NFT collection page. [PRIVIEW]
 - feat: Filter txn by address. [PRIVIEW]
