@@ -7,3 +7,4 @@
   - Wrap Page [Done]
   - Transcations [Done]
   - FAQ [Done]
+  - Feedback [WIP]
