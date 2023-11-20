@@ -6,7 +6,7 @@
 - feat: Add market info api[DONE]
 
 ## 2021-11-18
-- feat: Supports token and nft filtering based on address or token id [WIP]
+- feat: Supports token and nft filtering based on address or token id [PRIVIEW]
 - feat: Add Inventory tab on NFT collection page. [PRIVIEW]
 - feat: Filter txn by address. [PRIVIEW]
 - feat: Enable clickable NFT token IDs. [PRIVIEW]
