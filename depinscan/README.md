@@ -1,7 +1,7 @@
 # DePINscan Changelog
 ## 2023-11-20
-improve map performance
-add mvtlayer support
+- improve map performance
+- add mvtlayer support
 
 ## 2023-11-18
 - continue improve mobile UI imporvment
