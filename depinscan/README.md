@@ -2,7 +2,8 @@
 ## 2023-11-20
 - improve map performance
 - add mvtlayer support
-- capture twitter followers 
+- capture twitter followers
+- add point cluster map
 
 ## 2023-11-18
 - continue improve mobile UI imporvment
