@@ -1,4 +1,7 @@
 # DePINscan Changelog
+## 2023-11-22
+- improve map performance again through query, render, cache
+
 ## 2023-11-20
 - improve map performance
 - add mvtlayer support
