@@ -4,6 +4,8 @@
 - feat: Support to press the enter key when searching directly to the target website page [WIP]
 - perf: Optimize hard fork history banner loading speed [WIP]
 - feat: Add market info api[DONE]
+- feat: Add staking ratio history chart[WIP]
+- feat: Add actions count history chart[WIP]
 
 ## 2021-11-18
 - feat: Supports token and nft filtering based on address or token id [PRIVIEW]
