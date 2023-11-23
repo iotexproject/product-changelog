@@ -4,7 +4,7 @@
 - feat: Support to press the enter key when searching directly to the target website page [WIP]
 - perf: Optimize hard fork history banner loading speed [WIP]
 - feat: Add market info api[DONE]
-- feat: Add staking ratio history chart[WIP]
+- feat: Add staking ratio history chart[50%]
 - feat: Add actions count history chart[WIP]
 - fix: Issue of the filtered by address [DONE]
 
