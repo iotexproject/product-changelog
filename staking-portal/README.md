@@ -3,6 +3,7 @@
 ## 2021-11-24
 - feat: Register delegate improve. [WIP]
 - feat: Add label for delegate list filter options.[DONE]
+- fix: Fix delegate list filter options. [DONE]
 ## 2023-11-17
 - feat: Upgrade homepage FAQ. [PRIVIEW]
 - feat: Add daily rewards to the dashboard. [PREVIEW]
