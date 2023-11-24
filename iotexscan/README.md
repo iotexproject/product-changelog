@@ -11,7 +11,7 @@
 ## 2021-11-18
 - feat: Supports token and nft filtering based on address or token id [PRIVIEW]
 - feat: Add Inventory tab on NFT collection page. [DONE]
-- feat: Filter txn by address. [PRIVIEW]
+- feat: Filter txn by address. [DONE]
 - feat: Enable clickable NFT token IDs. [PRIVIEW]
 ## 2023-11-10
 - read-as-proxy[DONE]
