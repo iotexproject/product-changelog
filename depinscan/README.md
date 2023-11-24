@@ -1,12 +1,25 @@
 # DePINscan Changelog
+
+## 2023-11-24
+- add token price chart
+
+## 2023-11-23
+- improve mobile map render
+
+## 2023-11-22
+- improve map performance again through query, render, cache
+
 ## 2023-11-20
-improve map performance
+- improve map performance
+- add mvtlayer support
+- capture twitter followers
+- add point cluster map
 
 ## 2023-11-18
 - continue improve mobile UI imporvment
 - add data growth charts
-- verified projects data aggregate(total_market_cap, total_deivce)[WIP]
-- optimize home map performance [WIP]
+- verified projects data aggregate(total_market_cap, total_deivce)
+- optimize home map performance
 
 ## 2023-11-10
 - mobile UI imporvment
