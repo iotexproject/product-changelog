@@ -6,6 +6,7 @@
 - feat: Add market info api[DONE]
 - feat: Add staking ratio history chart[50%]
 - feat: Add actions count history chart[WIP]
+- fix: Fix account name display issue[DONE] 
 - fix: Issue of the filtered by address [DONE]
 
 ## 2021-11-18
