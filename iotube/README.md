@@ -2,7 +2,7 @@
 
 ## 2023-11-10
 
-- New UI2.0 [WIP]
+- New UI2.0 [Done]
   - Bridge Page [Done]
   - Wrap Page [Done]
   - Transcations [Done]
