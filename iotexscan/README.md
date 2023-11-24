@@ -1,7 +1,7 @@
 # IoTeXscan Changelog
 
 ## 2021-11-24
-- feat: Support to press the enter key when searching directly to the target website page [WIP]
+- feat: Support to press the enter key when searching directly to the target website page [DONE]
 - perf: Optimize hard fork history banner loading speed [WIP]
 - feat: Add market info api[DONE]
 - feat: Add staking ratio history chart[50%]
