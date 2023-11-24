@@ -1,4 +1,8 @@
 # DePINscan Changelog
+
+## 2023-11-24
+- add token price chart
+
 ## 2023-11-22
 - improve map performance again through query, render, cache
 
