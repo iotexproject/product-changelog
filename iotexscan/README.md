@@ -1,7 +1,7 @@
 # IoTeXscan Changelog
 
 ## 2023-12-1
-- feat: Add staking ratio history chart[DONE]
+- feat: Add staking ratio history chart
 
 ## 2023-11-24
 - feat: Support to press the enter key when searching directly to the target website page [DONE]
