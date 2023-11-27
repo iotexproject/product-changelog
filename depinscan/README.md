@@ -1,7 +1,7 @@
 # DePINscan Changelog
 
 ## 2023-11-27
-- improve memory usage
+- improve memory usage[TODO]
 
 ## 2023-11-24
 - add token price chart
