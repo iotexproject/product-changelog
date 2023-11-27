@@ -1,5 +1,7 @@
 # Staking Portal Changelog
 
+## 2021-12-01
+- fix: Fix compound interest bucket note. [DONE]
 ## 2021-11-24
 - feat: Register delegate improve. [WIP]
 - feat: Add label for delegate list filter options. [DONE]
