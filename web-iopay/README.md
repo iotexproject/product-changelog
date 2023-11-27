@@ -3,7 +3,7 @@
 ## 2023-11-20
 
 - New UI2.0 [10%]
-  - home page [WIP]
+  - home page [DONE]
   - Portfolio page [WIP]
   - Discover page [WIP]
   - Explorer page [WIP]
