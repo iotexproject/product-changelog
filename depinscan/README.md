@@ -2,6 +2,7 @@
 
 ## 2023-11-27
 - improve memory usage[TODO]
+- Improve script execution efficiency[TODO]
 
 ## 2023-11-24
 - add token price chart
