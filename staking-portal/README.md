@@ -7,9 +7,9 @@
 - feat: Add label for delegate list filter options. [DONE]
 - fix: Fix delegate list filter options. [DONE]
 ## 2023-11-17
-- feat: Upgrade homepage FAQ. [PRIVIEW]
+- feat: Upgrade homepage FAQ. [DONE]
 - feat: Add daily rewards to the dashboard. [PREVIEW]
-- feat: Allow sorting based on delegate node version. [PRIVIEW]
-- feat: Add reminders to the Compound Interest Bucket. [PRIVIEW]
+- feat: Allow sorting based on delegate node version. [DONE]
+- feat: Add reminders to the Compound Interest Bucket. [DONE]
 ## 2023-11-10
 - Improve debug mode
