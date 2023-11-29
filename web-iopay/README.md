@@ -5,6 +5,6 @@
 - New UI2.0 [10%]
   - home page [DONE]
   - Portfolio page [Done]
-  - Discover page [WIP]
+  - Discover page [Done]
   - Explorer page [WIP]
   - Stake page [WIP]
