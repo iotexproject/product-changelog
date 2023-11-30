@@ -2,7 +2,7 @@
 
 ## 2023-11-27
 - improve memory usage[TODO]
-- Improve script execution efficiency
+- Optimize mv query mode
 - improve api cache response
 
 ## 2023-11-24
