@@ -2,8 +2,9 @@
 
 ## 2021-12-01
 - fix: Fix compound interest bucket note. [DONE]
+- fea: Add admin management profile. [WIP]
 ## 2021-11-24
-- feat: Register delegate improve. [WIP]
+- feat: Register delegate improve. [PREVIEW]
 - feat: Add label for delegate list filter options. [DONE]
 - fix: Fix delegate list filter options. [DONE]
 ## 2023-11-17
