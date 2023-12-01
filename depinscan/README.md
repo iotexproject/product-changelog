@@ -14,7 +14,7 @@
 - Improve API response efficiency
 
 ## 2023-11-24
-- add token price chart
+- Add asset chart
 
 ## 2023-11-23
 - improve mobile map render
