@@ -6,6 +6,8 @@
   - home page [DONE]
   - Portfolio page [Done]
   - layout and sidebar [Done]
+  - transcation modal [WIP]
+  - SWAP/SEND MODAL [WIP]
   - Discover page [Done]
   - Explorer page [WIP]
   - Stake page [WIP]
