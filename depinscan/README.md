@@ -1,5 +1,8 @@
 # DePINscan Changelog
 
+## 2023-12-01
+- improve memory usage[TODO]
+
 ## 2023-11-30
 - Fix the bug that the project details page may crash
 
@@ -8,7 +11,6 @@
 - Remove home page "Total Event Messages"
 
 ## 2023-11-27
-- improve memory usage[TODO]
 - Optimize mv query mode
 - improve api cache response
 
