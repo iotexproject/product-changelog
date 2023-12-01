@@ -11,8 +11,7 @@
 - Remove home page "Total Event Messages"
 
 ## 2023-11-27
-- Optimize mv query mode
-- improve api cache response
+- Improve API response efficiency
 
 ## 2023-11-24
 - add token price chart
