@@ -1,5 +1,8 @@
 # DePINscan Changelog
 
+## 2023-11-30
+- Fix the bug that the project details page may crash
+
 ## 2023-11-29
 - Home map support zoom to 1
 - Remove home page "Total Event Messages"
