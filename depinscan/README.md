@@ -1,5 +1,9 @@
 # DePINscan Changelog
 
+## 2023-11-29
+- Home map support zoom to 1
+- Remove home page "Total Event Messages"
+
 ## 2023-11-27
 - improve memory usage[TODO]
 - Optimize mv query mode
