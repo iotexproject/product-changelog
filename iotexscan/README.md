@@ -2,6 +2,7 @@
 
 ## 2023-12-1
 - feat: Add staking ratio history chart
+- feat: sync depin token info and social to iotexscan
 
 ## 2023-11-24
 - feat: Support to press the enter key when searching directly to the target website page [DONE]
