@@ -7,7 +7,7 @@
   - Portfolio page [Done]
   - layout and sidebar [Done]
   - transcation modal [WIP]
-  - SWAP/SEND MODAL [WIP]
+  - SWAP/SEND MODAL [Done]
   - Discover page [Done]
   - Explorer page [WIP]
   - Stake page [WIP]
