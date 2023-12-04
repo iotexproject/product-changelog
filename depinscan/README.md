@@ -2,6 +2,7 @@
 ## 2023-12-08
 - fetch token markets and platforms data[TODO]
 
+
 ## 2023-12-01
 - improve memory usage[TODO]
 
