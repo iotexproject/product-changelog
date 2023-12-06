@@ -9,5 +9,5 @@
   - transcation modal [WIP]
   - SWAP/SEND MODAL [Done]
   - Discover page [Done]
-  - Explorer page [WIP]
+  - Explorer page [Done]
   - Stake page [WIP]
