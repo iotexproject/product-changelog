@@ -1,6 +1,9 @@
 # IoTeXscan Changelog
 
-## 2023-12-1
+## 2023-12-08
+- fix: Text display issue [DONE]
+
+## 2023-12-01
 - feat: Add staking ratio history chart[DONE]
 - feat: sync depin token info and social to iotexscan[DONE]
 - fix: fix nft holders display issue[DONE]
