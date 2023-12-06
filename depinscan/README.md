@@ -1,7 +1,7 @@
 # DePINscan Changelog
 ## 2023-12-08
 - fetch token markets and platforms data
-- Add a map type for the project detail page to support displaying the number of devices by country or region[WIP]
+- Add a map type for the project detail page to support displaying the count of devices by country or region[WIP]
 - Improve the project details page[WIP]
 
 ## 2023-12-01
