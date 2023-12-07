@@ -10,4 +10,4 @@
   - SWAP/SEND MODAL [Done]
   - Discover page [Done]
   - Explorer page [Done]
-  - Stake page [WIP]
+  - Stake page [Done]
