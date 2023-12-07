@@ -1,6 +1,6 @@
 # DePINscan Changelog
 ## 2023-12-08
-- fetch token markets and platforms data
+- sync token mimo markets data to depinscan
 - Add a map type for the project detail page to support displaying the count of devices by country or region[WIP]
 - Improve the project details page[WIP]
 
