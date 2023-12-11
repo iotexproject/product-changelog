@@ -1,4 +1,6 @@
 # DePINscan Changelog
+## 2023-12-15
+- Improves the query speed and reduces the query memory
 
 ## 2023-12-08
 - sync token mimo markets data to depinscan
