@@ -1,5 +1,8 @@
 # Staking Portal Changelog
 
+## 2021-12-08
+- fix: Delagte registration flow.
+
 ## 2021-12-01
 - fix: Fix compound interest bucket note. [DONE]
 - fea: Add admin management profile. [WIP]
