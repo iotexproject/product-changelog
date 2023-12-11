@@ -6,7 +6,7 @@
   - home page [DONE]
   - Portfolio page [Done]
   - layout and sidebar [Done]
-  - transcation modal [WIP]
+  - transcation modal [Done]
   - SWAP/SEND MODAL [Done]
   - Discover page [Done]
   - Explorer page [Done]
