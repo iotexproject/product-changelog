@@ -1,4 +1,5 @@
 # DePINscan Changelog
+
 ## 2023-12-15
 - Improves the query speed and reduces the query memory
 
