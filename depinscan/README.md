@@ -1,10 +1,13 @@
 # DePINscan Changelog
 
+## 2023-12-15
+- Improves the query speed and reduces the query memory
+
 ## 2023-12-08
 - sync token mimo markets data to depinscan
-- Add a map type for the project detail page to support displaying the count of devices by country or region[WIP]
+- Add a map type for the project detail page to support displaying the count of devices by country or region
 - Improve the project details page[WIP]
-- Improve memory usage[TODO]
+- Improve memory usage[WIP]
 
 ## 2023-12-01
 - Home map support zoom to 1

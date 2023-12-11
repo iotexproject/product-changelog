@@ -1,5 +1,8 @@
 # IoTeXscan Changelog
 
+## 2023-12-15
+- fix: Add fully diluted supply.
+
 ## 2023-12-08
 - fix: Text display issue [DONE]
 
