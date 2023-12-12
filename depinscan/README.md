@@ -6,7 +6,7 @@
 ## 2023-12-08
 - sync token mimo markets data to depinscan
 - Add a map type for the project detail page to support displaying the count of devices by country or region
-- Improve the project details page[WIP]
+- Improve the project details page
 - Improve memory usage[WIP]
 
 ## 2023-12-01
