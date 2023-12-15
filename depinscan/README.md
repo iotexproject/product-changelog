@@ -4,6 +4,7 @@
 - Improves the query speed and reduces the query memory[WIP]
 - Update new home page[TODO]
 
+
 ## 2023-12-08
 - sync token mimo markets data to depinscan
 - Add a map type for the project detail page to support displaying the count of devices by country or region
