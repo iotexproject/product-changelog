@@ -1,5 +1,9 @@
 # Staking Portal Changelog
 
+## 2021-12-22
+- fix: Add actions to delegate list. [DONE]
+- feat: Add recent blocks to delegate. [DONE]
+
 ## 2021-12-08
 - fix: Delagte registration flow.
 
