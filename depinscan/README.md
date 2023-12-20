@@ -1,5 +1,8 @@
 # DePINscan Changelog
 
+## 2023-12-22
+- New home page design and development[WIP]
+
 ## 2023-12-18
 - Improves the query speed and reduces the query memory[WIP]
 - Update new home page[TODO]
