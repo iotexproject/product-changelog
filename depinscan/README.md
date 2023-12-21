@@ -5,8 +5,7 @@
 
 ## 2023-12-18
 - Improves the query speed and reduces the query memory[WIP]
-- Update new home page[TODO]
-
+- Update new home page[WIP]
 
 ## 2023-12-08
 - sync token mimo markets data to depinscan
