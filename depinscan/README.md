@@ -36,6 +36,5 @@
 - Optimize home map performance
 
 ## 2023-11-10
-- mobile UI imporvment
-- improve data avaliablity
-- improved map explorer for mobile version
+- Improve data avaliablity
+- Improve map explorer for mobile version
