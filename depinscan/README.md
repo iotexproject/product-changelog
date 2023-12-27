@@ -1,5 +1,8 @@
 # DePINscan Changelog
 
+## 2023-12-29
+- Support for editing project data by a team[TODO]
+
 ## 2023-12-22
 - New home page design and development[WIP]
 
