@@ -7,8 +7,8 @@
 - New home page design and development[WIP]
 
 ## 2023-12-18
-- Improves the query speed and reduces the query memory[WIP]
-- Update new home page[WIP]
+- Improves the query speed and reduces the query memory
+- Update new home page
 
 ## 2023-12-08
 - sync token mimo markets data to depinscan
