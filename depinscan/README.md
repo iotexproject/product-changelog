@@ -1,7 +1,7 @@
 # DePINscan Changelog
 
 ## 2023-12-29
-- Support for editing project data by a team[TODO]
+- Support for editing project data by a team[WIP]
 
 ## 2023-12-22
 - Improves the query speed and reduces the query memory
