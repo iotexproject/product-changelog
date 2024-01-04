@@ -12,3 +12,5 @@
   - Discover page [Done]
   - Explorer page [Done]
   - Stake page [Done]
+
+- NFT SEND [DONE]
