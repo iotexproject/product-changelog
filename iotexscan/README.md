@@ -1,4 +1,6 @@
 # IoTeXscan Changelog
+## 2024-01-02
+- Optimize transaction method name presentation
 
 ## 2023-12-15
 - fix: Add fully diluted supply.
