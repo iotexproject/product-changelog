@@ -2,6 +2,7 @@
 
 ## 2023-12-29
 - Support for editing project data by a team
+- Add ioPay integration new page
 
 ## 2023-12-22
 - Improves the query speed and reduces the query memory
