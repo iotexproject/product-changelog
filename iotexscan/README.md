@@ -1,6 +1,6 @@
 # IoTeXscan Changelog
 ## 2024-01-08
-
+- feat: Add self tag for transaction [DONE]
 ## 2024-01-02
 - Optimize transaction method name presentation
 
