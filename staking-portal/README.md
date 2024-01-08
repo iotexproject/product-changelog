@@ -1,4 +1,7 @@
 # Staking Portal Changelog
+## 2024-01-12
+- fix: Fix daily burn-drop rewards. [DONE]
+
 ## 2024-01-05
 - fix: Recent blocks pagination.
 
