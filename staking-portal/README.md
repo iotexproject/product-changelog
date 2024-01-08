@@ -1,17 +1,19 @@
 # Staking Portal Changelog
+## 2024-01-05
+- fix: Recent blocks pagination.
 
-## 2021-12-22
+## 2023-12-22
 - fix: Add actions to delegate list. [DONE]
 - feat: Add recent blocks to delegate. [DONE]
 - fix: Table ui.
 
-## 2021-12-08
+## 2023-12-08
 - fix: Delagte registration flow.
 
-## 2021-12-01
+## 2023-12-01
 - fix: Fix compound interest bucket note. [DONE]
 - fea: Add admin management profile. [WIP]
-## 2021-11-24
+## 2023-11-24
 - feat: Register delegate improve. [PREVIEW]
 - feat: Add label for delegate list filter options. [DONE]
 - fix: Fix delegate list filter options. [DONE]

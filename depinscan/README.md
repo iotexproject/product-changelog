@@ -1,7 +1,10 @@
 # DePINscan Changelog
 
+## 2024-01-05
+- Add ioPay integration new page
+
 ## 2023-12-29
-- Support for editing project data by a team[WIP]
+- Support for editing project data by a team
 
 ## 2023-12-22
 - Improves the query speed and reduces the query memory
