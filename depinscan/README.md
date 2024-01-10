@@ -1,7 +1,7 @@
 # DePINscan Changelog
 
 ## 2024-01-05
-- Add ioPay integration new page
+- Updated mobile homepage to ioPay
 
 ## 2023-12-29
 - Support for editing project data by a team
