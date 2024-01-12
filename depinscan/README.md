@@ -1,5 +1,8 @@
 # DePINscan Changelog
 
+## 2024-01-12
+- Support for global search projects on mobile devices
+
 ## 2024-01-05
 - Updated mobile homepage to ioPay
 
