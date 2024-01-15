@@ -2,6 +2,7 @@
 
 ## 2024-01-15
 - Support for global search projects on mobile devices[WIP]
+- Optimize the device details page
 
 ## 2024-01-05
 - Updated mobile homepage to ioPay
