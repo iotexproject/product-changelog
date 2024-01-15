@@ -1,6 +1,6 @@
 # DePINscan Changelog
 
-## 2024-01-12
+## 2024-01-15
 - Support for global search projects on mobile devices[TODO]
 
 ## 2024-01-05
