@@ -1,4 +1,7 @@
 # Staking Portal Changelog
+## 2024-01-19
+- fix: Replace broadcast. [DONE]
+
 ## 2024-01-12
 - fix: Fix daily burn-drop rewards. [DONE]
 - fea: New delegate registration flow. [DONE]
