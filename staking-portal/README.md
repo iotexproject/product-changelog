@@ -1,4 +1,7 @@
 # Staking Portal Changelog
+## 2024-01-26
+- fix: Replace hermes address. [DONE]
+
 ## 2024-01-19
 - fix: Replace broadcast. [DONE]
 
