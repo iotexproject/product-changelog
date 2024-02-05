@@ -1,4 +1,7 @@
 # Staking Portal Changelog
+## 2024-02-09
+- Fea: Add an icon for the new version of Hermes address. [DONE]
+
 ## 2024-02-02
 - fix: Fix delegate distrubiton ratios. [DONE]
 - fix: Fix delegate webhook decode error. [DONE]
