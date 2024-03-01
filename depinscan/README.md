@@ -1,10 +1,10 @@
 # DePINscan Changelog
 
 ## 2024-03-01
-- Add "Liquidity Mining" tab
+- Add "Liquidity Mining" tab [WIP]
+- Add blog module [WIP]
 - Improve editing of project forms
 - Add a simple footer at the bottom of the page
-- Add blog module
 
 ## 2024-01-15
 - Support for global search projects on mobile devices
