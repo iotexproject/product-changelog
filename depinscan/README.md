@@ -1,8 +1,11 @@
 # DePINscan Changelog
 
+## 2024-03-08
+- Add blog module [WIP]
+- Improve page performance [WIP]
+
 ## 2024-03-01
 - Add "Liquidity Mining" tab
-- Add blog module [WIP]
 - Improve editing of project forms
 - Add a simple footer at the bottom of the page
 
