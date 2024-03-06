@@ -3,6 +3,8 @@
 ## 2024-03-08
 - Add blog module [WIP]
 - Improve page performance [WIP]
+- Add an API for uploading device metrics [WIP]
+- Add an API debugging panel [WIP]
 
 ## 2024-03-01
 - Add "Liquidity Mining" tab
