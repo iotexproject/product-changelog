@@ -1,4 +1,7 @@
 # Staking Portal Changelog
+## 2024-03-06
+- Fea: Add health checks. [DONE]
+
 ## 2024-02-09
 - Fea: Add an icon for the new version of Hermes address. [DONE]
 
