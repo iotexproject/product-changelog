@@ -1,7 +1,10 @@
 # DePINscan Changelog
 
-## 2024-03-08
+## 2024-03-15
 - Add blog module [WIP]
+- Supports login with google or with metamask [TODO]
+
+## 2024-03-08
 - Improve page performance
 - Add an API for uploading device metrics
 - Add an API debugging panel
