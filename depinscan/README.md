@@ -2,7 +2,7 @@
 
 ## 2024-03-15
 - Add blog module [WIP]
-- Supports login with google or with metamask [TODO]
+- Supports login with google or with metamask [WIP]
 
 ## 2024-03-08
 - Improve page performance
