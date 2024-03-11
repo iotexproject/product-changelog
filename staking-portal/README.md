@@ -1,4 +1,7 @@
 # Staking Portal Changelog
+## 2024-03-11
+- Fix: Fix delegate data, optimize switch delegate ui and delegate social media link. [DONE]
+
 ## 2024-03-06
 - Fea: Add health checks. [DONE]
 
