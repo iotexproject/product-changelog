@@ -1,4 +1,7 @@
 # Staking Portal Changelog
+## 2024-03-12
+- Fix: Delegate portal description. [DONE]
+
 ## 2024-03-11
 - Fix: Fix delegate data, optimize switch delegate ui and delegate social media link. [DONE]
 
