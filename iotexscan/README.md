@@ -1,6 +1,6 @@
 # IoTeXscan Changelog
-## 2024-03-04
-- Feat: Top accounts. [REVIEW]
+## 2024-03-12
+- Feat: Launch top accounts page. [DONE]
 
 ## 2024-01-08
 - feat: Add self tag for transaction [DONE]
