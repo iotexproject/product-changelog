@@ -1,4 +1,6 @@
 # DePINscan Changelog
+## 2024-03-25
+- [API endpoint] add prometheus metrics support
 
 ## 2024-03-15
 - Add blog module [WIP]
