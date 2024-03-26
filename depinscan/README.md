@@ -1,4 +1,7 @@
 # DePINscan Changelog
+## 2024-03-26
+- [API endpoint] add project counter metrics 
+
 ## 2024-03-25
 - [API endpoint] add prometheus metrics support
 
