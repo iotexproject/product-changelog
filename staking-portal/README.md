@@ -1,4 +1,7 @@
 # Staking Portal Changelog
+## 2024-03-27
+- Feat: Migrate the Delegate query logic. [WIP]
+
 ## 2024-03-12
 - Fix: Delegate portal description. [DONE]
 
